@@ -1,3 +1,6 @@
+#Movie_liking has the list of all movies and rating scores of each movie.
+#user_liking maintains the record of all users and their favourite genres 
+#dating has all the movies,their ids and ratings given by users
 
 import pandas as pd
 data=pd.read_csv('E:\\MLP\\MRS\\Final\\movie_liking.csv')
